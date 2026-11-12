@@ -144,8 +144,8 @@ This ensures that only **buildable artifacts** are deployed.
 
 ## 👤 Author
 
-**Maithilee Bodhe**  
-Computer Engineer
+**Om Tambat**  
+AI / ML Engineer
 
 This project is part of a hands-on journey into **Agentic AI systems, MLOps, and real-world deployment challenges**.
 

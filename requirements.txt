@@ -1,0 +1,23 @@
+flask
+python-dotenv
+
+langchain
+langchain-community
+langchain-groq
+langchain-chroma
+langgraph
+
+groq
+tavily-python
+
+chromadb
+pyyaml
+langchain-huggingface
+sentence-transformers
+
+# pypdf
+# pdfminer.six
+# pdf2image
+# unstructured
+# unstructured-inference
+# pi-heif
